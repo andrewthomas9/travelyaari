@@ -73,6 +73,6 @@ Check the [CONTRIBUTING](/CONTRIBUTING.md) file to see how you can add your lang
 With Sketch Runner, just go to the `install` command and search for `Foreign Ipsum`.
 
 ## License
-Licensed under the [MIT License](https://3raxton.github.io/license/) by [Braxton Huff](https://www.braxtonhuff.com/) 
+Licensed under the [MIT License](https://3raxton.github.io/license/)
 
 Hopefully this code helps you out and treats you well! Cheers!
